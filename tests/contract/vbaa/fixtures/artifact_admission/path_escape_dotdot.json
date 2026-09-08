@@ -1,0 +1,7 @@
+{
+  "artifact_id": "fx-admit-dotdot",
+  "artifact_type": "vbaa.artifact.v1",
+  "path": "../escaped/fx-admit-dotdot.json",
+  "payload": {"note": "fixture-only-nonempty"},
+  "signature": "sig-fixture-ok"
+}

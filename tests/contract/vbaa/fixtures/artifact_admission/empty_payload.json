@@ -1,0 +1,7 @@
+{
+  "artifact_id": "fx-admit-empty-payload",
+  "artifact_type": "vbaa.artifact.v1",
+  "path": "ok/fx-admit-empty-payload.json",
+  "payload": {},
+  "signature": "sig-fixture-ok"
+}
