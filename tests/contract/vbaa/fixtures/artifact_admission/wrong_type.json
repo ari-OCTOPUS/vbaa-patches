@@ -1,0 +1,7 @@
+{
+  "artifact_id": "fx-admit-wrong-type",
+  "artifact_type": "vbaa.not-allowed",
+  "path": "ok/fx-admit-wrong-type.json",
+  "payload": {"note": "fixture-only-nonempty"},
+  "signature": "sig-fixture-ok"
+}
