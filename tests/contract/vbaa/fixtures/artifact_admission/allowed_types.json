@@ -1,0 +1,5 @@
+{
+  "source": "tests/contract/vbaa/fixtures/artifact_admission/allowed_types.json",
+  "note": "Fixture allowlist only. Not a live type registry. Production allowlist is unverified beyond this fixture set.",
+  "allowed_types": ["vbaa.artifact.v1"]
+}

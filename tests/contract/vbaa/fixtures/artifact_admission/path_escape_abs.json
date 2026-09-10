@@ -1,0 +1,7 @@
+{
+  "artifact_id": "fx-admit-abs",
+  "artifact_type": "vbaa.artifact.v1",
+  "path": "/etc/passwd",
+  "payload": {"note": "fixture-only-nonempty"},
+  "signature": "sig-fixture-ok"
+}
