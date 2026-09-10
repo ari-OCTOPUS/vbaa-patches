@@ -1,0 +1,12 @@
+{
+  "arguments": {
+    "action": "propose",
+    "cents": 0
+  },
+  "provenance": {
+    "provenance_id": "prov-fx-001",
+    "trust_level": "verified",
+    "source_type": "test_artifact",
+    "source_ref": "fixtures/argument_provenance/trusted.json"
+  }
+}
